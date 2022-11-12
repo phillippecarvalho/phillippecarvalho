@@ -1,8 +1,8 @@
 ### Olá, meu nome é Luiz Phillippe!
 
 <div>
-  <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=phillippecarvalho&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phillippecarvalho&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=phillippecarvalho&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phillippecarvalho&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
 
@@ -25,13 +25,13 @@
 
 <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: l.phillippec@gmail.com">
-      <img width="50" src="gmail.svg">
+      <img width="30" src="gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/">
-      <img width="50" src="linkedin.svg">
+      <img width="25" src="linkedin.svg">
     </a>
     <a href = "https://www.instagram.com/xiuzera1/">
-      <img width="50" src="instagram.png">
+      <img width="25" src="instagram.png">
     </a>
 </div>
   

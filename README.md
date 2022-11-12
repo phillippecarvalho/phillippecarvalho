@@ -1,36 +1,27 @@
-### Olá, meu nome é Luiz Phillippe!
+<div align="center">
+  <div style="display: inline_block"><br>
+    <h1 align="center"> Olá, meu nome é Luiz Phillippe! 🤚</h1>
+ </div>  
+      
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://gmail.com/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xiuzera1/)
 
-<div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=phillippecarvalho&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+![Phillippe GitHub Stats](https://github-readme-stats.vercel.app/api?username=phillippecarvalho&show_icons=true&theme=great-gatsby)
+
+ 
+ <div  align="center"> 
+  <div style="display: inline_block"><br>
+   <h1 align="center">Tecnologias que uso no dia a dia</h1>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 </div>
-<br>
 
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-<!----EM BREVE
-    <h1 align="center">Melhores Tecnologias <3</h1>
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
------>   
+    <img align="center" height="250" alt="coding-time" src="code.gif"> 
 </div>
 
-
-<h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: l.phillippec@gmail.com">
-      <img width="30" src="gmail.svg">
-    </a>
-    <a href = "https://www.linkedin.com/">
-      <img width="25" src="linkedin.svg">
-    </a>
-    <a href = "https://www.instagram.com/xiuzera1/">
-      <img width="25" src="instagram.png">
-    </a>
-</div>
   

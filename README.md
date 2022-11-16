@@ -7,7 +7,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xiuzera1/)
 
-![Phillippe GitHub Stats](https://github-readme-stats.vercel.app/api?username=phillippecarvalho&show_icons=true&theme=great-gatsby)
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phillippecarvalho&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phillippecarvalho&layout=compact&langs_count=7&theme=great-gatsby"/>
 
  
  <div  align="center"> 
